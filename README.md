@@ -1,2 +1,2 @@
-# vk_bot_timetable
+# https://vk.com/public188742766
 # Bot with my university timetable
